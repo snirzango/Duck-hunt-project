@@ -336,6 +336,19 @@
     <Compile Include="C:\Users\user\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\Editor\Importer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Dog Boxer (Short)\BB_Boxer_SV_IP_MX_BRM.txt" />
+    <None Include="Assets\Dog Boxer (Short)\BB_Boxer_SV_RM_MX_BRM.txt" />
+    <None Include="Assets\SniperAnimated\ProjectSettings\ProjectVersion.txt" />
+    <None Include="Assets\SniperAnimated\README!.txt" />
+    <None Include="Assets\SniperAnimated\shader\meshterrain.shader" />
+    <None Include="Assets\SniperAnimated\shader\reflectAdd.shader" />
+    <None Include="Assets\SniperAnimated\shader\simplesky.shader" />
+    <None Include="Assets\SniperAnimated\shader\splatblend.shader" />
+    <None Include="Assets\SniperAnimated\shader\vertexcolors.shader" />
+    <None Include="Assets\SwampScene\Shaders\Swamp_2sided.shader" />
+    <None Include="Assets\SwampScene\Shaders\Swamp_2sided_transparent.shader" />
+    <None Include="Assets\SwampScene\Skyboxes\_skybox info.txt" />
+    <None Include="Assets\SwampScene\plants\WaterLily\Normal-BumpSpec.shader" />
     <None Include="C:\Users\user\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.8.8\Editor\Resources\Styles\Main_Dark.uss" />
     <None Include="C:\Users\user\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.8.8\Editor\Resources\Styles\Main_Light.uss" />
     <None Include="C:\Users\user\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.8.8\Editor\Resources\Templates\Alert.uxml" />
